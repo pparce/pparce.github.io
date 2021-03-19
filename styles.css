@@ -2855,23 +2855,38 @@
 html {
     scroll-behavior: smooth;
 }
+<<<<<<< HEAD
 div{
     color: #23272B;
 }
 .custom-font {
+=======
+div {
+>>>>>>> 559404847717ad71090a1442d4c78c7c68bb72f3
     font-family: myFirstFont;
 }
 body {
     height: 100%;
+<<<<<<< HEAD
     /* background: url("~src/assets/img/background.png") no-repeat center center fixed; */
+=======
+    background: url('background.png') no-repeat center center fixed;
+>>>>>>> 559404847717ad71090a1442d4c78c7c68bb72f3
     background-size: cover;
     height: 100%;
     overflow: auto;
 }
 p {
+<<<<<<< HEAD
     color: #23272b;
 }
 
+=======
+    color: rgb(79, 79, 79);
+}
+
+
+>>>>>>> 559404847717ad71090a1442d4c78c7c68bb72f3
 /*!
  * Bootstrap v4.6.0 (https://getbootstrap.com/)
  * Copyright 2011-2021 The Bootstrap Authors
