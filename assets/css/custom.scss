@@ -1,0 +1,57 @@
+.btn-primary {
+    border: 1px solid transparent !important;
+    border-radius: 2px !important;
+    font-size: 12px !important;
+}
+
+.btn-outline-primary {
+    border-color: transparent !important;
+    font-size: 12px !important;
+}
+
+.btn {
+    font-size: 12px !important;
+}
+
+input {
+    font-size: 13px !important;
+}
+
+textarea {
+    border-radius: 1px !important;
+    font-size: 13px !important;
+}
+
+select {
+    border-radius: 1px !important;
+    font-size: 13px !important;
+}
+
+.dropdown-item {
+    font-size: 12px;
+}
+
+.form-container {
+    border-radius: 15px;
+    background-color: white;
+    box-shadow: 0 1px 15px rgb(0 0 0 / 5%), 0 1px 6px rgb(0 0 0 / 5%);
+}
+
+.divider {
+    background-color: #d7d7d7;
+    height: 1px;
+}
+
+.anti-col {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+h6 {
+    color: #3a3a3a;
+}
+
+a {
+    text-decoration: none !important;
+    background-color: initial;
+}
