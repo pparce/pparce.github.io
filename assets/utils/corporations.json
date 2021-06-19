@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Google llc",
+        "email": "googel@gmail.com"
+    },
+    {
+        "id": 2,
+        "name": "Apple",
+        "email": "apple@gmail.com"
+    },
+    {
+        "id": 3,
+        "name": "Microsoft",
+        "email": "microsoft@gmail.com"
+    }
+]

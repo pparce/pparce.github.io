@@ -3089,10 +3089,14 @@ url('bootstrap-icons.woff?856008caa5eb66df68595e734e59580d') format("woff");
 .btn-primary {
     border: 1px solid transparent !important;
     border-radius: 2px !important;
-    font-size: 12px !important;
 }
 .btn-outline-primary {
-    border-color: transparent !important;
+    border-radius: 2px !important;
+}
+.btn-light {
+    border-radius: 2px !important;
+}
+.btn-text-primary {
     font-size: 12px !important;
 }
 .btn {
@@ -3117,6 +3121,26 @@ select {
     background-color: white;
     box-shadow: 0 1px 15px rgb(0 0 0 / 5%), 0 1px 6px rgb(0 0 0 / 5%);
 }
+.my-card {
+    margin: 1.5rem;
+    padding: 1.5rem;
+    border-radius: 15px;
+    background-color: white;
+    box-shadow: 0 1px 15px rgb(0 0 0 / 5%), 0 1px 6px rgb(0 0 0 / 5%);
+}
+.card-title {
+    margin-bottom: 1.5rem;
+    font-size: 1.1rem;
+}
+div {
+    color: #3a3a3a;
+}
+td {
+    color: #3a3a3a;
+}
+th {
+    color: #3a3a3a;
+}
 .divider {
     background-color: #d7d7d7;
     height: 1px;
@@ -3131,7 +3155,14 @@ h6 {
 a {
     text-decoration: none !important;
     background-color: initial;
+    cursor: pointer;
 }
+.table-hover {
+    cursor: pointer;
+}
+/* .table {
+    border: 1px solid #dee2e6;
+} */
 :root {
   --animate-duration:1s;
   --animate-delay:1s;
