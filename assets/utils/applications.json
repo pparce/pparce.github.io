@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "pose",
+        "version": "1.0.0"
+    },
+    {
+        "id": 2,
+        "name": "storebow",
+        "version": "1.2.5"
+    },
+    {
+        "id": 3,
+        "name": "hidra",
+        "version": "1.1.0"
+    }
+]
