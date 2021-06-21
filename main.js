@@ -213,7 +213,7 @@ __webpack_require__.r(__webpack_exports__);
 const routes = [
     {
         path: '',
-        redirectTo: 'login',
+        redirectTo: 'admin',
         pathMatch: 'full',
     },
     {
