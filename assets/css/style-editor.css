@@ -1,0 +1,36 @@
+body#tinymce.wp-editor { 
+	font-family: 'Roboto', sans-serif; 
+}
+
+body#tinymce.wp-editor h1,
+body#tinymce.wp-editor h2,
+body#tinymce.wp-editor h3,
+body#tinymce.wp-editor h4,
+body#tinymce.wp-editor h5,
+body#tinymce.wp-editor h6
+{ 
+	font-family: 'Montserrat', sans-serif; 
+}
+
+body#tinymce.wp-editor a {
+	color: #141515;
+}
+
+/* Main column width */
+.wp-block {
+    max-width: 650px;
+}
+
+/* Width of "wide" blocks */
+.wp-block[data-align="wide"] {
+    max-width: 1030px;
+}
+
+/* Width of "full-wide" blocks */
+.wp-block[data-align="full"] {
+    max-width: none;
+}
+
+.has-regular-font-size {
+    font-size: 14px;
+}
