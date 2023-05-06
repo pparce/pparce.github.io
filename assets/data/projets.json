@@ -1,0 +1,88 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "created_at": "2022-11-11T00:13:37.191234+00:00",
+            "title": "Angular",
+            "icon": "icons8-angularjs.svg",
+            "type": "front-end",
+            "selected": true,
+            "projects": [
+                {
+                    "id": 7,
+                    "created_at": "2022-11-12T11:10:28.5552+00:00",
+                    "title": "StoreBow",
+                    "description": "This is an online store manager that allows you to carry out all the business administration. In this project I collaborated both in the process of creating administrative modules and in the visual templates for the general public.",
+                    "cover": null,
+                    "project_framework": 1
+                },
+                {
+                    "id": 1,
+                    "created_at": "2022-11-10T22:15:32+00:00",
+                    "title": "Portafolio",
+                    "description": "Based on a designer template on behance I tried to create something different for my portfolio. Something that will reflect the day of my work and that will make a difference.",
+                    "cover": "asdfasdf",
+                    "project_framework": 1
+                },
+                {
+                    "id": 4,
+                    "created_at": "2022-11-12T11:08:39.659211+00:00",
+                    "title": "Odontologo",
+                    "description": "This is was entirely developed by me who intends to carry all the administrative part of a dentistry clinic. It also manages a presentation page and its respective administrative manager.",
+                    "cover": null,
+                    "project_framework": 1
+                },
+                {
+                    "id": 5,
+                    "created_at": "2022-11-12T11:08:56.517525+00:00",
+                    "title": "Liga Abogados",
+                    "description": "Duo dolor lorem magna ipsum eos lorem diam justo voluptua dolor magna eum kasd labore. At sanctus ea diam voluptua lorem sit aliquyam accumsan et ex ipsum sit duis justo. Kasd iusto blandit et. Vero ipsum dolore takimata velit dolor. Ipsum consetetur invidunt diam sadipscing blandit ut.",
+                    "cover": null,
+                    "project_framework": 1
+                },
+                {
+                    "id": 6,
+                    "created_at": "2022-11-12T11:09:08.792348+00:00",
+                    "title": "Stylopadel",
+                    "description": "Duo dolor lorem magna ipsum eos lorem diam justo voluptua dolor magna eum kasd labore. At sanctus ea diam voluptua lorem sit aliquyam accumsan et ex ipsum sit duis justo. Kasd iusto blandit et. Vero ipsum dolore takimata velit dolor. Ipsum consetetur invidunt diam sadipscing blandit ut.",
+                    "cover": null,
+                    "project_framework": 1
+                },
+                {
+                    "id": 2,
+                    "created_at": "2022-11-12T10:00:31.43507+00:00",
+                    "title": "Artesse Projekt ",
+                    "description": "Invidunt eirmod molestie diam sea feugait magna et esse invidunt iriure amet te. Diam sit eirmod tation molestie erat dolores at nonumy lorem ut amet accusam ipsum aliquyam lorem ipsum sea stet. Odio molestie nulla eros labore odio clita. Cum lorem dolor. Sadipscing ad vero et vero duo velit ea nonummy kasd ipsum ut et sed eirmod rebum. Diam eirmod illum amet ea vel dolore volutpat clita eos clita kasd vero vulputate dignissim ipsum et sanctus takimata. Takimata at aliquyam eirmod ipsum justo te. Elit sanctus magna consequat sea diam sit dolore est at sed dolore et dolor. Quis hendrerit est ex eirmod euismod. Ad dolores magna consectetuer erat erat sea magna dolor nonummy accusam sed sed. Sadipscing dolor lorem et vero laoreet dolor ex sed voluptua no sanctus sit dolores autem. Amet eos quis kasd clita nulla ipsum eum iriure nonumy at nulla eos. Gubergren sed eum mazim est stet sit vel ea takimata et stet sanctus diam velit. Praesent sanctus ut et ipsum elit duo erat diam augue consetetur diam eirmod invidunt dolor tempor.\r\n\r\nPraesent dolores sed ipsum aliquyam dolore consetetur rebum. Ullamcorper cum lorem elitr ea dignissim facer sanctus ipsum et et ut vel ut ad nulla hendrerit. In eu stet in possim est ullamcorper odio accusam amet stet at lorem dolore dolores nibh. Amet dolor accusam erat vero zzril. Amet lorem vel imperdiet sed voluptua. Vero nonumy sit ipsum et erat facilisis. Consetetur eu stet autem dolore quod nonummy justo sit sit duo rebum est sit liber takimata ad dolores et. Invidunt kasd rebum rebum sit labore velit odio.",
+                    "cover": null,
+                    "project_framework": 1
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "created_at": "2022-11-12T10:09:24.422263+00:00",
+            "title": "Flutter",
+            "icon": "icons8-flutter.svg",
+            "type": "front-end",
+            "selected": true,
+            "projects": [
+                {
+                    "id": 3,
+                    "created_at": "2022-11-12T10:18:20.14421+00:00",
+                    "title": "GoldenBull Academia",
+                    "description": "Duo dolor lorem magna ipsum eos lorem diam justo voluptua dolor magna eum kasd labore. At sanctus ea diam voluptua lorem sit aliquyam accumsan et ex ipsum sit duis justo. Kasd iusto blandit et. Vero ipsum dolore takimata velit dolor. Ipsum consetetur invidunt diam sadipscing blandit ut.",
+                    "cover": null,
+                    "project_framework": 2
+                },
+                {
+                    "id": 8,
+                    "created_at": "2022-11-12T11:11:29.041921+00:00",
+                    "title": "Pet app",
+                    "description": "Duo dolor lorem magna ipsum eos lorem diam justo voluptua dolor magna eum kasd labore. At sanctus ea diam voluptua lorem sit aliquyam accumsan et ex ipsum sit duis justo. Kasd iusto blandit et. Vero ipsum dolore takimata velit dolor. Ipsum consetetur invidunt diam sadipscing blandit ut.",
+                    "cover": null,
+                    "project_framework": 2
+                }
+            ]
+        }
+    ]
+}
