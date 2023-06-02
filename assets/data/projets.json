@@ -14,7 +14,8 @@
                     "title": "StoreBow",
                     "description": "This is an online store manager that allows you to carry out all the business administration. In this project I collaborated both in the process of creating administrative modules and in the visual templates for the general public.",
                     "cover": "https://i.pinimg.com/originals/f9/c9/c9/f9c9c9a44d55d91306fa5ff7a1d879b3.jpg",
-                    "project_framework": 1
+                    "project_framework": 1,
+                    "gallery": []
                 },
                 {
                     "id": 1,
@@ -22,7 +23,8 @@
                     "title": "Portafolio",
                     "description": "Based on a designer template on behance I tried to create something different for my portfolio. Something that will reflect the day of my work and that will make a difference.",
                     "cover": "asdfasdf",
-                    "project_framework": 1
+                    "project_framework": 1,
+                    "gallery": []
                 },
                 {
                     "id": 4,
@@ -30,7 +32,8 @@
                     "title": "Odontologo",
                     "description": "This is was entirely developed by me who intends to carry all the administrative part of a dentistry clinic. It also manages a presentation page and its respective administrative manager.",
                     "cover": "https://i.pinimg.com/originals/f9/c9/c9/f9c9c9a44d55d91306fa5ff7a1d879b3.jpg",
-                    "project_framework": 1
+                    "project_framework": 1,
+                    "gallery": []
                 },
                 {
                     "id": 5,
@@ -38,7 +41,8 @@
                     "title": "Liga Abogados",
                     "description": "Duo dolor lorem magna ipsum eos lorem diam justo voluptua dolor magna eum kasd labore. At sanctus ea diam voluptua lorem sit aliquyam accumsan et ex ipsum sit duis justo. Kasd iusto blandit et. Vero ipsum dolore takimata velit dolor. Ipsum consetetur invidunt diam sadipscing blandit ut.",
                     "cover": "https://i.pinimg.com/originals/f9/c9/c9/f9c9c9a44d55d91306fa5ff7a1d879b3.jpg",
-                    "project_framework": 1
+                    "project_framework": 1,
+                    "gallery": []
                 },
                 {
                     "id": 6,
@@ -46,7 +50,8 @@
                     "title": "Stylopadel",
                     "description": "Duo dolor lorem magna ipsum eos lorem diam justo voluptua dolor magna eum kasd labore. At sanctus ea diam voluptua lorem sit aliquyam accumsan et ex ipsum sit duis justo. Kasd iusto blandit et. Vero ipsum dolore takimata velit dolor. Ipsum consetetur invidunt diam sadipscing blandit ut.",
                     "cover": "https://i.pinimg.com/originals/f9/c9/c9/f9c9c9a44d55d91306fa5ff7a1d879b3.jpg",
-                    "project_framework": 1
+                    "project_framework": 1,
+                    "gallery": []
                 },
                 {
                     "id": 2,
@@ -79,7 +84,8 @@
                     "title": "GoldenBull Academia",
                     "description": "Duo dolor lorem magna ipsum eos lorem diam justo voluptua dolor magna eum kasd labore. At sanctus ea diam voluptua lorem sit aliquyam accumsan et ex ipsum sit duis justo. Kasd iusto blandit et. Vero ipsum dolore takimata velit dolor. Ipsum consetetur invidunt diam sadipscing blandit ut.",
                     "cover": "https://i.pinimg.com/originals/f9/c9/c9/f9c9c9a44d55d91306fa5ff7a1d879b3.jpg",
-                    "project_framework": 2
+                    "project_framework": 2,
+                    "gallery": []
                 },
                 {
                     "id": 8,
@@ -87,7 +93,8 @@
                     "title": "Pet app",
                     "description": "Duo dolor lorem magna ipsum eos lorem diam justo voluptua dolor magna eum kasd labore. At sanctus ea diam voluptua lorem sit aliquyam accumsan et ex ipsum sit duis justo. Kasd iusto blandit et. Vero ipsum dolore takimata velit dolor. Ipsum consetetur invidunt diam sadipscing blandit ut.",
                     "cover": "https://i.pinimg.com/originals/f9/c9/c9/f9c9c9a44d55d91306fa5ff7a1d879b3.jpg",
-                    "project_framework": 2
+                    "project_framework": 2,
+                    "gallery": []
                 }
             ]
         }
